@@ -16,3 +16,5 @@ class Solution {
         return diff;
     }
 }
+
+//Complexity is  O(n) - Optimal Approach
